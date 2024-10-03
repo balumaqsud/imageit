@@ -1,11 +1,9 @@
 # imageit
 
-first make PORT= 8000 or any you wish
+#1 npm run build
+#2 npm run start
 
-then get your mongo db connection uri 
-
-npm start for frontend, npm run dev for backend, 
-or do it as you want 
+you need PORT and MONGO_URI in your .env file!!!
 
 some images:
 
